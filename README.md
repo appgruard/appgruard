@@ -1,4 +1,4 @@
-Repúblicagogoalign="center">
+<div align="center">
 
 <img src="http://gruard.com/assets/20251126_144937_0000_1765970748932-CdHpJkyQ.png" alt="Gruard" width="80" />
 
