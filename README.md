@@ -8,8 +8,8 @@
 **República Dominicana 🇩🇴**
 
 [![Website](https://img.shields.io/badge/gruard.com-0055CC?style=for-the-badge&logo=safari&logoColor=white)](https://gruard.com)
-[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://gruard.com)
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://gruard.com)
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/do/app/gr%C3%BAa-rd/id6759132391)
+[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)]([https://gruard.com](https://play.google.com/store/apps/details?id=com.fouronesolutions.gruard))
 [![Email](https://img.shields.io/badge/info@gruard.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@gruard.com)
 
 </div>
